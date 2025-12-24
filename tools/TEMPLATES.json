@@ -1,0 +1,12 @@
+{
+    "cultists": {
+        "LEADER" : {},
+        "FOLLOWER" : {},
+        "INITIATE" : {
+            "level": 1,  
+            "experience": {
+            }
+        }
+    },
+    "skills" : ["lumber", "bones", "potions"]
+}
